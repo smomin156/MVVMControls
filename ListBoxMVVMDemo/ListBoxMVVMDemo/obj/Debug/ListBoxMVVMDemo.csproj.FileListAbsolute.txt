@@ -1,0 +1,16 @@
+C:\TRAINING\WPF-BhavanaMaam\ListBoxMVVMDemo\ListBoxMVVMDemo\bin\Debug\ListBoxMVVMDemo.exe.config
+C:\TRAINING\WPF-BhavanaMaam\ListBoxMVVMDemo\ListBoxMVVMDemo\bin\Debug\ListBoxMVVMDemo.exe
+C:\TRAINING\WPF-BhavanaMaam\ListBoxMVVMDemo\ListBoxMVVMDemo\bin\Debug\ListBoxMVVMDemo.pdb
+C:\TRAINING\WPF-BhavanaMaam\ListBoxMVVMDemo\ListBoxMVVMDemo\obj\Debug\ListBoxMVVMDemo.csproj.AssemblyReference.cache
+C:\TRAINING\WPF-BhavanaMaam\ListBoxMVVMDemo\ListBoxMVVMDemo\obj\Debug\Views\UserForm.g.cs
+C:\TRAINING\WPF-BhavanaMaam\ListBoxMVVMDemo\ListBoxMVVMDemo\obj\Debug\App.g.cs
+C:\TRAINING\WPF-BhavanaMaam\ListBoxMVVMDemo\ListBoxMVVMDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TRAINING\WPF-BhavanaMaam\ListBoxMVVMDemo\ListBoxMVVMDemo\obj\Debug\ListBoxMVVMDemo_MarkupCompile.cache
+C:\TRAINING\WPF-BhavanaMaam\ListBoxMVVMDemo\ListBoxMVVMDemo\obj\Debug\ListBoxMVVMDemo_MarkupCompile.lref
+C:\TRAINING\WPF-BhavanaMaam\ListBoxMVVMDemo\ListBoxMVVMDemo\obj\Debug\Views\UserForm.baml
+C:\TRAINING\WPF-BhavanaMaam\ListBoxMVVMDemo\ListBoxMVVMDemo\obj\Debug\ListBoxMVVMDemo.g.resources
+C:\TRAINING\WPF-BhavanaMaam\ListBoxMVVMDemo\ListBoxMVVMDemo\obj\Debug\ListBoxMVVMDemo.Properties.Resources.resources
+C:\TRAINING\WPF-BhavanaMaam\ListBoxMVVMDemo\ListBoxMVVMDemo\obj\Debug\ListBoxMVVMDemo.csproj.GenerateResource.cache
+C:\TRAINING\WPF-BhavanaMaam\ListBoxMVVMDemo\ListBoxMVVMDemo\obj\Debug\ListBoxMVVMDemo.csproj.CoreCompileInputs.cache
+C:\TRAINING\WPF-BhavanaMaam\ListBoxMVVMDemo\ListBoxMVVMDemo\obj\Debug\ListBoxMVVMDemo.exe
+C:\TRAINING\WPF-BhavanaMaam\ListBoxMVVMDemo\ListBoxMVVMDemo\obj\Debug\ListBoxMVVMDemo.pdb

@@ -1,0 +1,16 @@
+C:\Users\www.abcom.in\source\repos\ComboBoxMVVMDemo\ComboBoxMVVMDemo\bin\Debug\ComboBoxMVVMDemo.exe.config
+C:\Users\www.abcom.in\source\repos\ComboBoxMVVMDemo\ComboBoxMVVMDemo\bin\Debug\ComboBoxMVVMDemo.exe
+C:\Users\www.abcom.in\source\repos\ComboBoxMVVMDemo\ComboBoxMVVMDemo\bin\Debug\ComboBoxMVVMDemo.pdb
+C:\Users\www.abcom.in\source\repos\ComboBoxMVVMDemo\ComboBoxMVVMDemo\obj\Debug\ComboBoxMVVMDemo.csproj.AssemblyReference.cache
+C:\Users\www.abcom.in\source\repos\ComboBoxMVVMDemo\ComboBoxMVVMDemo\obj\Debug\App.g.cs
+C:\Users\www.abcom.in\source\repos\ComboBoxMVVMDemo\ComboBoxMVVMDemo\obj\Debug\ComboBoxMVVMDemo_MarkupCompile.cache
+C:\Users\www.abcom.in\source\repos\ComboBoxMVVMDemo\ComboBoxMVVMDemo\obj\Debug\ComboBoxMVVMDemo.Properties.Resources.resources
+C:\Users\www.abcom.in\source\repos\ComboBoxMVVMDemo\ComboBoxMVVMDemo\obj\Debug\ComboBoxMVVMDemo.csproj.GenerateResource.cache
+C:\Users\www.abcom.in\source\repos\ComboBoxMVVMDemo\ComboBoxMVVMDemo\obj\Debug\ComboBoxMVVMDemo.csproj.CoreCompileInputs.cache
+C:\Users\www.abcom.in\source\repos\ComboBoxMVVMDemo\ComboBoxMVVMDemo\obj\Debug\ComboBoxMVVMDemo.exe
+C:\Users\www.abcom.in\source\repos\ComboBoxMVVMDemo\ComboBoxMVVMDemo\obj\Debug\ComboBoxMVVMDemo.pdb
+C:\Users\www.abcom.in\source\repos\ComboBoxMVVMDemo\ComboBoxMVVMDemo\obj\Debug\Views\UserForm.g.cs
+C:\Users\www.abcom.in\source\repos\ComboBoxMVVMDemo\ComboBoxMVVMDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\www.abcom.in\source\repos\ComboBoxMVVMDemo\ComboBoxMVVMDemo\obj\Debug\ComboBoxMVVMDemo_MarkupCompile.lref
+C:\Users\www.abcom.in\source\repos\ComboBoxMVVMDemo\ComboBoxMVVMDemo\obj\Debug\Views\UserForm.baml
+C:\Users\www.abcom.in\source\repos\ComboBoxMVVMDemo\ComboBoxMVVMDemo\obj\Debug\ComboBoxMVVMDemo.g.resources
